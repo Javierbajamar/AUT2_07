@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AUT2_07</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="modelo">Modelo</string>
+    <string name="t_tulo">Título</string>
+    <string name="grabar">Grabar</string>
+    <string name="detener">Detener</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="play">Play</string>
+    <string name="agregar_producto">Agregar Producto</string>
+    <string name="actividad_de_audio">Actividad de Audio</string>
+    <string name="volver_al_inicio">volver al inicio</string>
+    <string name="resoluci_n_del_dispositivo">Resolución del dispositivo</string>
+    <string name="estado_de_la_bater_a">Estado de la batería</string>
+    <string name="sensor_de_luz">Sensor de luz</string>
+    <string name="ubicaci_n">Ubicación</string>
+    <string name="abrir_cuarta_actividad">Abrir Cuarta Actividad</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="about">About</string>
+    <string name="salir">Salir</string>
+    <string name="cambiar_tema">Cambiar Tema</string>
+    <string name="actividad_4">Actividad 4</string>
+    <string-array name="car_brands">
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Citroen</item>
+        <item>Ford</item>
+    </string-array>
+</resources>
